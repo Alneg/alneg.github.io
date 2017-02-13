@@ -1,0 +1,23 @@
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	height: 100%;
+}
+header {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+}
+footer {
+
+
+}
+img {
+	border-radius: 50%;
+	width: 100px;
+	height:100px;
+}
